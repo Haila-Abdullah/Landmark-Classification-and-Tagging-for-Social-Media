@@ -23,7 +23,7 @@ This project covers the entire machine learning pipeline, including:
 - Exporting the best performing model  
 - Building interactive app for landmark classification 
 
-![Landmarks Example](images/landmarks-example.jpg)
+![Landmarks Example](src/landmarks-example.png)
 
 *Examples from the landmarks dataset: a road in Death Valley, the Brooklyn Bridge, and the Eiffel Tower.*
 
