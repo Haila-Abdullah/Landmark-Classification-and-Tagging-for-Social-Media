@@ -33,15 +33,16 @@ This project covers the entire machine learning pipeline, including:
 
 1. **Training a CNN from Scratch**  
    Build and train a CNN to classify landmarks. Focus on data visualization, processing, and network architecture. Export the best model with TorchScript.  
-   *Notebook: `cnn_from_scratch.ipynb`*
+   [Notebook: `cnn_from_scratch.ipynb`](cnn_from_scratch.ipynb)
 
 2. **Using Transfer Learning**  
    Explore and apply pre-trained models for landmark classification. Train, evaluate, and export the best transfer learning model.  
-   *Notebook: `transfer_learning.ipynb`*
+   [Notebook: `transfer_learning.ipynb`](transfer_learning.ipynb)
 
 3. **Deploying the Model**  
    Build an interactive app for users to classify landmarks using the trained model.  
-   *Notebook: `app.ipynb`*
+   [Notebook: `app.ipynb`](app.ipynb)
+
 
 ## 🚀 How to Run
 
